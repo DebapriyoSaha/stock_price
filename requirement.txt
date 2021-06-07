@@ -1,0 +1,7 @@
+streamlit==0.82.0
+pands==0.25.3
+matplotlib==3.1.3
+yfinance==0.1.54
+fbprohphet==0.7.1
+plotly==4.14.3
+datetime==4.3
